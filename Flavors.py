@@ -1,4 +1,4 @@
-import Epic;
+import Epic
 
 ratings = []
 flavors = ["vanilla", "chocolate", "strawberry", "bacon"]
