@@ -9,7 +9,6 @@ def readFlavors(filename):
     file = open(filename)
     for flavor in file:
         l.append(flavor.strip())
-    print l
     return l    
     
 # -------------------------------------------------------
