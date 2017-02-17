@@ -1,3 +1,8 @@
+def userList(prompt):
+    print prompt,
+    l = raw_input().split(",")
+    return l
+
 def userInt(prompt):
     print prompt,
     num = int(raw_input())
